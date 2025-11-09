@@ -16,8 +16,8 @@
 10. 延迟隐藏 （Latency Hiding）
 11. Warp 执行状态 （Warp Execution State）	
 12. 活跃周期 （Active Cycle）
-13. 线程占用率 （Occupancy）
-14. 流水线利用率 （Pipe Utilization）	
+13. 占用率 （Occupancy）
+14. 管线利用率 （Pipe Utilization）	
 15. 峰值速率 （Peak Rate）
 16. 指令发射效率 （Issue Efficiency）
 17. SM 利用率 （Streaming Multiprocessor Utilization）
